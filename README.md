@@ -11,7 +11,6 @@ I'm a passionate data analyst with a strong foundation in mechanical engineering
 ## 💻 Tech Stack:
 ### Languages:
 - Python
-- SQL
 - R
 
 ### Frameworks and Libraries I Use:
