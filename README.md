@@ -31,6 +31,7 @@ I'm a passionate data analyst with a strong foundation in mechanical engineering
 - **Email:** vinaypanika@gmail.com
 - **LinkedIn:** [Vinay Kumar Panika](https://www.linkedin.com/in/vinaykumarpanika)
 - **GitHub:** [Vinay Kumar Panika](https://github.com/Vinaypanika)
+- **Mobile No:** +91 7415552944
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
