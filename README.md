@@ -40,7 +40,7 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vinaypanika&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaypanika&layout=compact&theme=radical)
+
 
 
 ## 📊 Profile Views
