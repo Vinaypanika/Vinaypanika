@@ -1,8 +1,5 @@
 # ⚡ Hello, I'm Vinay Kumar Panika!
 
-## 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Vinaypanika&color=blue)
-
 ## 🚀 About Me
 I'm a passionate data analyst with a strong foundation in mechanical engineering and a keen interest in Data Science, Data Analysis, and Data Visualization. I enjoy exploring new technologies and leveraging them to transform raw data into actionable insights.
 ## 🧑‍💻 What I Do:
@@ -38,7 +35,8 @@ I'm a passionate data analyst with a strong foundation in mechanical engineering
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
-
+## 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Vinaypanika&color=blue)
 
 <!---
 Vinaypanika/Vinaypanika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
