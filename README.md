@@ -36,7 +36,6 @@ I'm a passionate data analyst with a strong foundation in mechanical engineering
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
 ## 📊 GitHub Stats
-![Vinay Kumar Panika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinaypanika&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vinaypanika&theme=radical&hide_border=true)
 
