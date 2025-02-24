@@ -35,12 +35,6 @@ I'm a passionate data analyst with a strong foundation in mechanical engineering
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vinaypanika&theme=radical&hide_border=true)
-
-
-
 
 ## 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Vinaypanika&color=blue)
