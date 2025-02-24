@@ -1,5 +1,5 @@
 # ⚡ Hello, I'm Vinay Kumar Panika!  
-🚀 **Data Analyst | Python | SQL | Tableau | Power BI**
+🚀 **Data Analyst | SQL | Python | Power BI | Tableau | Excel | Data Visualization | Business Insights**
 
 ---
 
