@@ -1,16 +1,23 @@
-# ⚡ Hello, I'm Vinay Kumar Panika!  
-🚀 **Data Analyst | SQL | Python | Power BI | Tableau | Excel | Data Visualization | Business Insights**
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Vinaypanika&label=Profile%20Views&color=0e75b6&style=flat" alt="Vinaypanika">
+</p>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Vinay+Kumar+Panika;Data+Analyst;SQL+|+Python+|+Power+BI+|+Tableau+|+Excel;" />
+</h1>
 
 ---
 
 ## 🚀 About Me  
-I'm a passionate **Data Analyst** with a background in **Mechanical Engineering** and a keen interest in **Data Science, Data Analytics, and Data Visualization**. I love exploring new technologies to extract meaningful insights from raw data.
+I am **Vinay Kumar Panika**, a passionate **Data Analyst** with a background in **Mechanical Engineering**. My journey into data analytics is driven by my love for **uncovering insights** and transforming raw data into actionable business decisions.
 
-## 🧑‍💻 What I Do  
-- 🔍 **Data Analysis:** Using Python, SQL, and Excel to analyze datasets and uncover insights.  
-- 📊 **Data Visualization:** Creating interactive dashboards with **Tableau & Power BI**.  
-- 📈 **Python Development:** Automating tasks, data wrangling, and scripting.  
-- 🛠 **Machine Learning (Basics):** Exploring **Scikit-learn** for data predictions.  
+---
+
+## 🔥 What I Do  
+- 🔍 **Data Analysis** using **Python**, **SQL**, and **Excel**  
+- 📊 Creating **Interactive Dashboards** in **Tableau** and **Power BI**  
+- 💪 Strong in **Data Cleaning, Visualization, and Business Insights**  
+- 🚀 Exploring **Machine Learning** for predictive analytics  
 
 ---
 
@@ -31,10 +38,6 @@ I'm a passionate **Data Analyst** with a background in **Mechanical Engineering*
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 
-### Utilities  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-
 ---
 
 ## 📊 GitHub Stats  
@@ -42,9 +45,6 @@ I'm a passionate **Data Analyst** with a background in **Mechanical Engineering*
   <img src="https://github-readme-stats.vercel.app/api?username=Vinaypanika&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinaypanika&theme=radical" width="48%">
 </p>
-
-### Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaypanika&layout=compact&theme=radical)  
 
 ---
 
@@ -60,5 +60,6 @@ I'm a passionate **Data Analyst** with a background in **Mechanical Engineering*
 
 ---
 
-## 📊 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Vinaypanika&color=blue)  
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=70&duration=5500&lines=Thanks+For+Visiting!;+Let's+Connect!🚀;" />
+</h2>
