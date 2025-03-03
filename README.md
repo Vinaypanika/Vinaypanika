@@ -85,3 +85,10 @@ I'm a passionate **Data Analyst** with a background in **Mechanical Engineering*
 
 ---
 
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=7000&pause=2000&lines=Thanks+For+Stopping+By!;Have+a+Nice+Day✨;" />
+</h2>
+
+---
+
+
