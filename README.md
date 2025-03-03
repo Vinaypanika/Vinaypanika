@@ -1,3 +1,18 @@
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=vinaypanika&label=Profile%20views&color=0e75b6&style=flat" alt="vinaypanika">
+</p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinay+Kumar+Panika!;" />
+</h1>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=1000&height=50&duration=6000&pause=1000&lines=🚀+Data+Analyst+|+SQL+|+Python+|+Power+BI+|+Tableau+|+Excel+|+Data+Visualization+|+Business+Insights">
+</h3>
+
+
+
+
 # ⚡ Hello, I'm Vinay Kumar Panika!  
 🚀 **Data Analyst | SQL | Python | Power BI | Tableau | Excel | Data Visualization | Business Insights**
 
