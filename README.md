@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=1000&height=50&duration=6000&pause=1000&lines=🚀+Data+Analyst+|+SQL+|+Python+|+Power+BI+|+Tableau+|+Excel+|+Data+Visualization+|+Business+Insights">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=1000&height=50&duration=6000&pause=1000&lines=🚀+Data+Analyst+|+SQL+|+Python+|+Tableau+|+Excel+|+Data+Visualization+|+Business+Insights">
 </h3>
 
 
