@@ -10,12 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=1000&height=50&duration=6000&pause=1000&lines=🚀+Data+Analyst+|+SQL+|+Python+|+Tableau+|+Excel+|+Data+Visualization+|+Business+Insights">
 </h3>
 
-
-
-
-# ⚡ Hello, I'm Vinay Kumar Panika!  
-🚀 **Data Analyst | SQL | Python | Power BI | Tableau | Excel | Data Visualization | Business Insights**
-
 ---
 
 ## 🚀 About Me  
@@ -75,5 +69,3 @@ I'm a passionate **Data Analyst** with a background in **Mechanical Engineering*
 
 ---
 
-## 📊 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Vinaypanika&color=blue)  
