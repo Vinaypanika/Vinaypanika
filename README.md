@@ -62,10 +62,26 @@ I'm a passionate **Data Analyst** with a background in **Mechanical Engineering*
 
 ---
 
-## 📫 Get in Touch  
-📧 **Email:** [vinaypanika@gmail.com](mailto:vinaypanika@gmail.com)  
-🔗 **LinkedIn:** [Vinay Kumar Panika](https://www.linkedin.com/in/vinaykumarpanika)  
-👨‍💻 **GitHub:** [Vinay Kumar Panika](https://github.com/Vinaypanika)  
+## Connect with Me:
+                
+<div align="left"> 
+  <a href="mailto:vinaypanika@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://linkedin.com/in/vinaykumarpanika" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Vinaypanika" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://sites.google.com/view/vinaykumarpanika/home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 
