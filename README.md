@@ -26,23 +26,32 @@ I'm a passionate **Data Analyst** with a background in **Mechanical Engineering*
 ## 💻 Tech Stack  
 
 ### Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
+<span>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white">
+</span>  
 
 ### Tools & Libraries  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-1F77B4?style=flat)  
+<span>
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat">
+    <img src="https://img.shields.io/badge/-Seaborn-1F77B4?style=flat">
+</span>  
 
 ### Visualization Tools  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+<span>
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+    <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black">
+</span>  
 
 ### Utilities  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+<span>
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
+    <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+</span>
+  
 
 ---
 
